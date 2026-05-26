@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Source docs (not for production)
+*.docx
+
+# Older duplicate folders
+big-style-site/
+big-style-site-v1/
+big-style-site-v2/
